@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\DSA Lab\DSA Dynamic Memory Allocation\DSA Dynamic Memory Allocation\Source.cpp(9,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DSA Dynamic Memory Allocation.vcxproj -> E:\DSA Lab\DSA Dynamic Memory Allocation\x64\Debug\DSA Dynamic Memory Allocation.exe
